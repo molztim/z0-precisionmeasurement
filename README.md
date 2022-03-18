@@ -12,4 +12,6 @@ The goal of this experiment is to carry out precision measurements and tests of 
 3. Activate the new env: `conda activate z0-env`
 4. Start `jupyter-lab` (or `jupyter-notebook` if you prefer) in the
    environment. This will usually open your browesr automatically. If
-   not the link is printed to the console too.
+   not the link is printed to the console too
+   
+   Edited by Tim
